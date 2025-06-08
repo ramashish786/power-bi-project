@@ -1,0 +1,7 @@
+1. Number of breaches in a company
+2. What is the largest data breach so far
+3. cases of data breach over the years
+4. Record of data breach each Year(table) vs previous year
+5. Most preferred hacking method
+6. top 5 type organization where hacking occurs most often
+
