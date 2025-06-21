@@ -1,0 +1,17 @@
+KPI Name	Formula	Description
+Delivery Rate	(Successful Sends / Attempted Sends) * 100	Measures the percentage of emails that were successfully delivered.
+Bounce Rate	(Rejected Sends / Attempted Sends) * 100	Measures the percentage of emails that failed to deliver (hard or soft bounces).
+Forward Rate	(Forwards / Successful Sends) * 100	Indicates how often recipients forward the email to others.
+Open Rate	(Unique Opens / Successful Sends) * 100	Measures the percentage of successfully delivered emails that were opened at least once.
+Total Open Rate	(Total Opens / Successful Sends) * 100	Measures how often emails were opened, including multiple opens by the same recipient.
+Click Through Rate (CTR)	(Unique Clicks / Successful Sends) * 100	Measures the percentage of recipients who clicked on a link in the email.
+Click-to-Open Rate (CTOR)	(Unique Clicks / Unique Opens) * 100	Indicates the effectiveness of email content in prompting clicks.
+Total Click Rate	(Total Clicks / Successful Sends) * 100	Measures how often links in the email were clicked overall.
+Unsubscribe Rate	(Total Unsubscriptions / Successful Sends) * 100	Indicates how many recipients unsubscribed after receiving the email.
+Mobile Open Rate	(Total Mobile Open / Total Opens) * 100	Proportion of email opens on mobile devices.
+Desktop Open Rate	(Total Desktop Open / Total Opens) * 100	Proportion of email opens on desktop devices.
+Other Device Open Rate	(Other Device Open / Total Opens) * 100	Email opens from other devices (e.g., tablets, smart TVs).
+Engagement Rate	((Unique Clicks + Unique Opens) / Successful Sends) * 100	Indicates total engagement with the email campaign.
+Click per Open (CPO)	(Total Clicks / Total Opens) * 100	Shows how often a recipient clicks after opening the email.
+Open Reach	Unique Opens	Indicates how many unique recipients actually opened the email.
+Click Reach	Unique Clicks	Indicates how many unique recipients actually clicked in the email.
